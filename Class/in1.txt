@@ -1,0 +1,41 @@
+40
+add hudson 30
+add ethan 40
+add gustavo 32
+add aisha 28
+add fransisco 60
+add hong 45
+add abraham 60
+add bassam 30
+height_balance
+sub aisha 30
+sub hong 15
+add gustavo 8
+add ricardo 20
+add yohan 25
+add matthew 10
+add julie 50
+add muhammad 80
+height_balance
+add jonathan 60
+height_balance
+add luke 20
+del muhammad
+search matthew
+search muhammad
+del matthew
+height_balance
+search julie
+del ethan
+search bassam
+height_balance
+del bassam
+height_balance
+search aisha
+search fransisco
+del ethan
+search gustavo
+del hudson
+search yohan
+search hong
+search abraham

@@ -1,0 +1,40 @@
+hudson 30 0
+ethan 40 1
+gustavo 32 2
+aisha 28 2
+fransisco 60 3
+hong 45 3
+abraham 60 3
+bassam 30 3
+left height = 2 right height = -1 not balanced
+aisha 0 2
+hong 30 3
+gustavo 40 2
+ricardo 20 1
+yohan 25 2
+matthew 10 2
+julie 50 3
+muhammad 80 3
+left height = 2 right height = 2 balanced
+jonathan 60 4
+left height = 2 right height = 3 not balanced
+luke 20 4
+muhammad deleted
+matthew 10 2
+muhammad not found
+matthew deleted
+left height = 2 right height = 2 balanced
+julie 50 2
+ethan deleted
+bassam 30 1
+left height = 2 right height = 2 balanced
+bassam deleted
+left height = 2 right height = 2 balanced
+aisha 0 1
+fransisco 60 3
+ethan not found
+gustavo 40 2
+hudson deleted
+yohan 25 2
+hong 30 0
+abraham 60 2
